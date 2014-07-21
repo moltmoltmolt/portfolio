@@ -30,7 +30,7 @@ var menu = " \
       * [Après Nicolas](/clients/apres-nicolas/) \
       * [Esads, lieux d'expositions](/image-dexpo/dnsep/) \
       ##### Info \
-      * [contact](/contact/) \
+      * [contact](/contact.htm) \
       * [home](/) \
       * [biographie](/clients/sony/) \
       * [liens](/liens/) \
