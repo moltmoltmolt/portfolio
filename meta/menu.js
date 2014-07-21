@@ -2,9 +2,6 @@ var menu = " \
     <div id=\"menu\" data-markdown> \
       # [MATHILDE FENOLL](/) \
       <br/> \
-      ##### 2013-2014 \
-      * [Eine Mauer wie eine Frau](/2013/eine-mauer-wie-eine-frau/) \
-      * [fémur et humérus](/2013/femur-et-humerus/) \
       ##### 2012 \
       * [apparition](/clients/apparition/) \
       * [balai bois](/clients/balai-bois/) \
