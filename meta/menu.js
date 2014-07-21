@@ -32,6 +32,6 @@ var menu = " \
       * [contact](/contact.htm) \
       * [home](/) \
       * [biographie](/clients/sony/) \
-      * [liens](/liens/) \
+      * [liens](/liens.htm) \
     </div> \
 ";
