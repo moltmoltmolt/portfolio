@@ -13,7 +13,7 @@
     if (!window.Showdown){
         var scr = document.createElement('script');
         scr.onload = boom;
-        scr.src = '_/showdown.js';
+        scr.src = 'meta/showdown.js';
         document.body.appendChild(scr);
         return;
     }
