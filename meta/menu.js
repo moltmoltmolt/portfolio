@@ -3,7 +3,7 @@ var menu = " \
       # [MATHILDE FENOLL](/) \
       <br/> \
       ##### 2013 \
-      * [blabla](/clients/apparition/) \
+      * [Malacologie](/clients/apparition/) \
       ##### 2012 \
       * [apparition](/clients/apparition/) \
       * [balai bois](/clients/balai-bois/) \
