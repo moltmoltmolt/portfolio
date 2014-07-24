@@ -1,77 +1,75 @@
 * {
-    margin:0;
-    padding:0;
+    margin: 0;
+    padding: 0;
 }
 
 body {
-    font-size:12px;
+    font-size: 12px;
     font-family: "Courier New", "Andale Mono", monospace;
-    background:#fff;
+    background: #fff;
 }
 
-a:link { text-decoration:none; color:#000; }
-a:active { text-decoration:none; }
-a:visited { text-decoration:none; color:#666; }
-a:hover { text-decoration:underline; }
+a:link { text-decoration: none; color: #000; }
+a:active { text-decoration: none; }
+a:visited { text-decoration: none; color: #666; }
+a:hover { text-decoration: underline; }
 
-a img { border:none; }
+a img { border: none; }
 
 #menu {
-    width:215px;
-    overflow:auto;
-    top:0;
-    bottom:0;
-    left:0;
-    position:fixed;
-    height:100%;
-    background-color:#fff;
+    width: 215px;
+    overflow: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    height: 100%;
+    background-color: #fff;
     padding: 15px 5px 25px 5px;
 }
 
 #menu ul {
-    list-style:none;
+    list-style: none;
     margin: 0 0 12px 0;
 }
 
 #content {
-    height:100%;
+    height: 100%;
     margin: 0 0 0 215px;
-    top:0;
+    top: 0;
     padding: 15px 5px 25px 25px;
 }
 
 .legend {
-    width:200px;
-    float:left;
+    width: 200px;
+    float: left;
     padding-top: inherit;
     margin-left: 20%;
 }
 #content p {  }
 
 .kiosk {
-    float:left;
-    height:1000px;
-    width:720px;
+    float: left;
+    height: 1000px;
+    width: 720px;
 }
 
 p {
     margin: 0 0 9px 0;
 }
 
-h1 { font-size:16px; color:#000; font-weight:normal; }
-h1 a:visited { color:#000; }
-h1 a:hover { text-decoration:none; }
-h2 { font-size:24px; }
-h3 { font-size:16px; }
-h4 { font-size:12px; }
+h1 { font-size: 16px; color: #000; font-weight: normal; }
+h1 a:visited { color: #000; }
+h1 a:hover { text-decoration: none; }
+h2 { font-size: 24px; }
+h3 { font-size: 16px; }
+h4 { font-size: 12px; }
 
-.kiosk p { width:400px; margin:0; padding: 0 0 12px 0; }
-
-#once { clear:left; }
-
-.nothumb { float:left; padding: 0 1px 9px 0;  }
-.nothumb img { display:block; margin: 0 0 1px 0; }
-.nothumb strong { display:block; }
+.kiosk p {
+    width: 400px;
+    margin: 0;
+    padding: 0 0 12px 0;
+}
 
 #num { padding-left: 6px; }
-.img-bot { margin-bottom: 6px; display: block; }
+.kiosk img { margin-bottom: 6px; display: block; }
