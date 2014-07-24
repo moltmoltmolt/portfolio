@@ -9,8 +9,8 @@ var menu = " \
       ##### 2012 \
       * [Ziggurats](/ziggurats.htm/) \
       ##### 2011 \
-      * [Plage](/plage.htm) \
-      * [épicentre](/clients/epicentre/) \
+      * [Coloriages](/plage.htm) \
+      * [Les Hôtes](/les_hotes.htm/) \
       * [périmètre(s)](/clients/perimetres/) \
       * [crâne image](/clients/crane-image/) \
       * [crânes béton](/clients/cranes-beton/) \
