@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<!-- Saved from elsafarbos.com. Kudos to www.indexhibit.org and git.io/data-markdown.
+     Put together by Pierre Fenoll -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>MATHILDE FENOLL</title>
+    <script type="text/javascript" src="meta/menu.js"></script>
+    <script type="text/javascript" src="meta/jquery.min.js"></script>
+    <script type="text/javascript" src="meta/jquery.cycle.all.js"></script>
+    <link type="text/css" rel="stylesheet" href="meta/style.css"/>
+    <!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lte IE 6]>
+        <link rel='stylesheet' href='meta/ie.css' type='text/css'/>
+    <![endif]-->
+  </head>
+  <body>
+    <script type="text/javascript">
+      document.write(menu);
+      $(document).ready(function () {
+          $("#k1").cycle({
+              fx: "fade", speed: "2000",
+              timeout: 0,
+              next: "#k1-next", prev: "#k1-prev" });
+      });
+    </script>
+
+    <div id="content" data-markdown>
+      ### Kiosk
+      <div class="kiosk" id="k1">
+        <div><img src="kiosk/1.gif"/><p>Atelier d'artiste</p></div>
+        <div><img src="kiosk/2.gif"/><p>Atelier d'artiste (suite)</p></div>
+        <div><img src="kiosk/3.gif"/><p>Acsenceur</p></div>
+        <div><img src="kiosk/4.gif"/><p>Salle precheter</p></div>
+      </div>
+      <div class="legend">
+        **Esads, lieu d'exposition,** mai 2012, Strasbourg
+
+        <a id="k1-prev" href="#">Prev</a> | <a id="k1-next" href="#">Next</a>
+        <!-- <span id="num"></span> -->
+      </div>
+
+    </div>
+
+    <script type="text/javascript" src="meta/data-markdown.user.js"></script>
+  </body>
+</html>

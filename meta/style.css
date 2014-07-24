@@ -40,15 +40,14 @@ a img { border:none; }
     padding: 15px 5px 25px 25px;
 }
 
-#legende {
+.legend {
     width:200px;
     float:left;
+    padding-top: inherit;
 }
 #content p {  }
 
-#img-container {
-    margin:0;
-    padding:0;
+.kiosk {
     float:left;
     height:1000px;
     width:720px;
@@ -65,11 +64,13 @@ h2 { font-size:24px; }
 h3 { font-size:16px; }
 h4 { font-size:12px; }
 
-#img-container { margin:0; padding:0; }
-#img-container p { width:400px; margin:0; padding: 0 0 12px 0; }
+.kiosk p { width:400px; margin:0; padding: 0 0 12px 0; }
 
 #once { clear:left; }
 
 .nothumb { float:left; padding: 0 1px 9px 0;  }
 .nothumb img { display:block; margin: 0 0 1px 0; }
 .nothumb strong { display:block; }
+
+#num { padding-left: 6px; }
+.img-bot { margin-bottom: 6px; display: block; }
