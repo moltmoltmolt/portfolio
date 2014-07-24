@@ -2,6 +2,7 @@ var menu = " \
     <div id=\"menu\" data-markdown> \
       # [MATHILDE FENOLL](/) \
       <br/> \
+      ##### [About](/about/texte.htm) \
       ##### Works \
       * [Malacologie](/malacologie.htm) \
       * [Néons](/neons.htm) \
