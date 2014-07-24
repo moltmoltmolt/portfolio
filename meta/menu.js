@@ -11,7 +11,8 @@ var menu = " \
       * [crânes brûlés](/clients/cranes-brules/) \
       * [en bas de l'échelle](/clients/en-bas-de-lechelle/) \
       ##### 2011 \
-      * [Ninfas Méduas](/clients/ninfas-meduas/) \
+      * [Plage](/plage1.jpeg) \
+      * [Plage](/plage2.jpeg) \
       * [épicentre](/clients/epicentre/) \
       * [périmètre(s)](/clients/perimetres/) \
       * [crâne image](/clients/crane-image/) \
