@@ -9,12 +9,13 @@ var menu = " \
       * [Diplopie](/diplopie.htm) \
       * [La Terre Est Faite De Ciel](/papier_peint.htm) \
       * [Ziggurats](/ziggurats.htm/) \
-      * [Coloriages](/plage.htm) \
+      * [Coloriages](/coloriages.htm) \
       * [Les Hôtes](/les_hotes.htm/) \
+      * [Enfiler Des Perles](/enfiler_des_perles.htm/) \
       ##### Drawings \
       * [Bestiaire](/bestiaire.htm/) \
       ##### Texts \
-      * [J'écris](/project/jecris/) \
+      * [J'écris](/jecris/) \
       ##### Prints \
       * [Vrac](/vrac.htm/) \
       ##### Info \
