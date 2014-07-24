@@ -11,7 +11,7 @@ var menu = " \
       * [crânes brûlés](/clients/cranes-brules/) \
       * [en bas de l'échelle](/clients/en-bas-de-lechelle/) \
       ##### 2011 \
-      * [Ninfas Méduas](/clients/ninfas-meduas/) \
+      * [Plage](/plage.htm) \
       * [épicentre](/clients/epicentre/) \
       * [périmètre(s)](/clients/perimetres/) \
       * [crâne image](/clients/crane-image/) \
@@ -23,8 +23,8 @@ var menu = " \
       ##### Texte \
       * [J'écris](/project/jecris/) \
       * [Percer, crever, éclater](/project/percer-crever-eclater/) \
-      ##### image d'expo \
-      * [MONDEMON](/image-dexpo/mondemon/) \
+      ##### éditions \
+      * [Vrac](/vrac.htm/) \
       * [Nuit des musées](/clients/nuit-des-musees/) \
       * [Après Nicolas](/clients/apres-nicolas/) \
       * [Esads, lieux d'expositions](/image-dexpo/dnsep/) \
