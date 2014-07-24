@@ -13,6 +13,7 @@ var menu = " \
       * [Les Hôtes](/les_hotes.htm/) \
       * [Enfiler Des Perles](/enfiler_des_perles.htm/) \
       ##### Drawings \
+      * [HH](/dessins.htm/) \
       * [Bestiaire](/bestiaire.htm/) \
       ##### Texts \
       * [J'écris](/jecris/) \
