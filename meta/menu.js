@@ -4,12 +4,10 @@ var menu = " \
       <br/> \
       ##### 2013 \
       * [Malacologie](/malacologie.htm) \
+      * [Néons](/neons.htm) \
+      * [Malacologie](/malacologie.htm) \
       ##### 2012 \
-      * [apparition](/clients/apparition/) \
-      * [balai bois](/clients/balai-bois/) \
-      * [balai gaz](/clients/balai-gaz/) \
-      * [crânes brûlés](/clients/cranes-brules/) \
-      * [en bas de l'échelle](/clients/en-bas-de-lechelle/) \
+      * [Ziggurats](/ziggurats.htm/) \
       ##### 2011 \
       * [Plage](/plage.htm) \
       * [épicentre](/clients/epicentre/) \
