@@ -13,7 +13,7 @@
     if (!window.Markdown){
         var scr = document.createElement('script');
         scr.onload = boom;
-        scr.src = 'meta/Markdown.Converter.min.js';
+        scr.src = '/meta/Markdown.Converter.min.js';
         document.body.appendChild(scr);
         return;
     }
