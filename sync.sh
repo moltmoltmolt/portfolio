@@ -6,8 +6,8 @@ P () {
 }
 
 cd "$(dirname "$0")" \
-    && P 'git pull origin gh-pages --no-commit' \
-    && git pull origin gh-pages --no-commit \
+    && P 'git pull origin gh-pages --rebase --no-commit' \
+    && git pull origin gh-pages --rebase --no-commit \
     && P 'git add -A .' \
     && git add -A . \
     && git commit -am 'changes on Boubou' \
