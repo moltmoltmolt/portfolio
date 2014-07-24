@@ -16,7 +16,7 @@ var menu = " \
       * [Les Hôtes](/les_hotes.htm) \
       * [Enfiler Des Perles](/enfiler_des_perles.htm) \
       ##### Drawings \
-      * [HH](/dessins.htm) \
+      * [Notes pour sculptures](/encre.htm) \
       * [Bestiaire](/bestiaire.htm) \
       ##### Prints \
       * [Vrac](/vrac.htm) \
