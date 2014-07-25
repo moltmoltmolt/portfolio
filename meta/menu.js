@@ -5,7 +5,9 @@ var menu = " \
       ##### [About](/about/texte.htm) \
       <br/> \
       ##### Works \
-      * [Malacologie](/malacologie.htm) \
+      * [Malacologie #1](/malacologie.htm) \
+      * [Malacologie #2](/malacologie2.htm) \
+      * [Malacologie #3](/malacologie3.htm) \
       * [Néons](/neons.htm) \
       * [Domestic Disturbance](/domestic_disturbance.htm) \
       * [Diplopie](/diplopie.htm) \
