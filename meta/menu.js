@@ -19,6 +19,7 @@ var menu = " \
       ##### Drawings \
       * [Notes pour sculptures](/encre.htm) \
       * [Bestiaire](/bestiaire.htm) \
+      * [Collages](/collages.htm) \
       ##### Prints \
       * [Vrac](/vrac.htm) \
       ##### Info \
