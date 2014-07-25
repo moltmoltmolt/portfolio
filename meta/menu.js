@@ -6,8 +6,8 @@ var menu = " \
       <br/> \
       ##### Works \
       * [Malacologie #1](/malacologie.htm) \
-      * [Malacologie #2](/malacologie2.htm) \
-      * [Malacologie #3](/malacologie3.htm) \
+      * [Malacologie #2](/malacologie#2.htm) \
+      * [Malacologie #3](/malacologie#3.htm) \
       * [Néons](/neons.htm) \
       * [Domestic Disturbance](/domestic_disturbance.htm) \
       * [Diplopie](/diplopie.htm) \
