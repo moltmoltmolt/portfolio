@@ -11,7 +11,7 @@ var menu = " \
       * [Néons](/neons.htm) \
       * [Domestic Disturbance](/domestic_disturbance.htm) \
       * [Diplopie](/diplopie.htm) \
-      * [Domestic Disturbance](/papier_peint.htm) \
+      * [Papier Peint Atmosphérique](/papier_peint.htm) \
       * [Ziggurats](/ziggurats.htm) \
       * [Coloriages](/coloriages.htm) \
       * [Sans Titre 1](/sans_titre1.htm) \
