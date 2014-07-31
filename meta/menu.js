@@ -11,7 +11,7 @@ var menu = " \
       * [Néons](/neons.htm) \
       * [Domestic Disturbance](/domestic_disturbance.htm) \
       * [Diplopie](/diplopie.htm) \
-      * [La Terre Est Faite De Ciel](/papier_peint.htm) \
+      * [Domestic Disturbance](/papier_peint.htm) \
       * [Ziggurats](/ziggurats.htm) \
       * [Coloriages](/coloriages.htm) \
       * [Sans Titre 1](/sans_titre1.htm) \
