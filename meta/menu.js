@@ -4,7 +4,7 @@ var menu = " \
       <br/> \
       ##### [^^^^](/^^^^/texte.htm) \
       <br/> \
-      ##### Travaux \
+      ##### TRAVAUX \
       * [Malacologie #1](/malacologie1.htm) \
       * [Malacologie #2](/malacologie2.htm) \
       * [Malacologie #3](/malacologie3.htm) \
@@ -22,7 +22,7 @@ var menu = " \
       * [Bestiaire](/bestiaire.htm) \
       * [Collages](/collages.htm) \
       * [Vrac](/vrac.htm) \
-      ##### Info \
+      ##### INFO \
       * [contact](/contact.htm) \
       * [biographie](/clients/sony/) \
       * [liens](/liens.htm) \
