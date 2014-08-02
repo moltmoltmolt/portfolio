@@ -24,7 +24,7 @@ var menu = " \
       * [Vrac](/vrac.htm) \
       ##### INFO \
       * [contact](/contact.htm) \
-      * [biographie](/clients/sony/) \
+      * [bio](/clients/sony/) \
       * [liens](/liens.htm) \
     </div> \
 ";
