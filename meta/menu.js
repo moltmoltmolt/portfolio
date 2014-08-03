@@ -5,7 +5,7 @@ var menu = " \
       #### TEXTE \
       [____](/texte.htm) \
       <br/> \
-      ##### TRAVAUX \
+      #### TRAVAUX \
       * [Malacologie #1](/malacologie1.htm) \
       * [Malacologie #2](/malacologie2.htm) \
       * [Malacologie #3](/malacologie3.htm) \
@@ -23,7 +23,7 @@ var menu = " \
       * [Bestiaire](/bestiaire.htm) \
       * [Collages](/collages.htm) \
       * [Vrac](/vrac.htm) \
-      ##### INFO \
+      #### INFO \
       * [contact](/contact.htm) \
       * [bio](/clients/sony/) \
       * [liens](/liens.htm) \
