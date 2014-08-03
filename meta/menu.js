@@ -13,10 +13,9 @@ var menu = " \
       * [Domestic Disturbance](/domestic_disturbance.htm) \
       * [Diplopie](/diplopie.htm) \
       * [Papier Peint Atmosphérique](/papier_peint.htm) \
-      * [Coloriages](/coloriages.htm) \
       * [Sans Titre 1](/sans_titre1.htm) \
+      * [Coloriages](/coloriages.htm) \
       * [Les Hôtes](/les_hotes.htm) \
-      * [Enfiler Des Perles](/enfiler_des_perles.htm) \
       * [Notes pour sculptures](/encre.htm) \
       * [Études Totémiques](/etudes_totemiques.htm) \
       * [Vrac](/vrac.htm) \
