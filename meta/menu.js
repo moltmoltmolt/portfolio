@@ -19,7 +19,7 @@ var menu = " \
       * [Les Hôtes](/les_hotes.htm) \
       * [Enfiler Des Perles](/enfiler_des_perles.htm) \
       * [Notes pour sculptures](/encre.htm) \
-      * [Bestiaire](/bestiaire.htm) \
+      * [Études Totémiques](/etudes_totemiques.htm) \
       * [Collages](/collages.htm) \
       * [Vrac](/vrac.htm) \
       #### INFO \
