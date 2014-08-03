@@ -16,7 +16,6 @@ var menu = " \
       * [Ziggurats](/ziggurats.htm) \
       * [Coloriages](/coloriages.htm) \
       * [Sans Titre 1](/sans_titre1.htm) \
-      * [Floating Faith](/faith.htm) \
       * [Les Hôtes](/les_hotes.htm) \
       * [Enfiler Des Perles](/enfiler_des_perles.htm) \
       * [Notes pour sculptures](/encre.htm) \
