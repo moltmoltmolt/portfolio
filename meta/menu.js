@@ -3,7 +3,7 @@ var menu = " \
       # [MATHILDE FENOLL](/) \
       <br/> \
       #### TEXTE \
-      [texte](/texte.htm) \
+      [___](/texte.htm) \
       <br/> \
       #### TRAVAUX \
       * [Malacologie #1](/malacologie1.htm) \
