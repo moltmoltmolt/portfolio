@@ -10,7 +10,7 @@ var menu = " \
       * [Malacologie #2](/malacologie2.htm) \
       * [Malacologie #3](/malacologie3.htm) \
       * [Néons](/neons.htm) \
-      * [Domestic Disturbance](/domestic_disturbance.htm) \
+      * [Strates](/Strates.htm) \
       * [Diplopie](/diplopie.htm) \
       * [Papier Peint Atmosphérique](/papier_peint.htm) \
       * [Sans Titre 1](/sans_titre1.htm) \
