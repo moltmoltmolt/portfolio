@@ -10,7 +10,7 @@ var menu = " \
       * [Malacologie #2](/malacologie2.htm) \
       * [Malacologie #3](/malacologie3.htm) \
       * [Néons](/neons.htm) \
-      * [Strates](/Strates.htm) \
+      * [Strates](/strates.htm) \
       * [Diplopie](/diplopie.htm) \
       * [Papier Peint Atmosphérique](/papier_peint.htm) \
       * [Sans Titre 1](/sans_titre1.htm) \
@@ -18,6 +18,7 @@ var menu = " \
       * [Les Hôtes](/les_hotes.htm) \
       * [Notes pour sculptures](/encre.htm) \
       * [Études Totémiques](/etudes_totemiques.htm) \
+      * [Atelier](/recherches.htm) \
       * [Vrac](/vrac.htm) \
       #### INFO \
       * [contact](/contact.htm) \
