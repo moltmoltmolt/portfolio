@@ -22,7 +22,5 @@ var menu = " \
       * [Études Totémiques](/etudes_totemiques.htm) \
       * [Atelier](/recherches.htm) \
       * [Vrac](/vrac.htm) \
-      #### INFO \
-      * [contact](/contact.htm) \
     </div> \
 ";
