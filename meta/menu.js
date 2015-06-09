@@ -1,9 +1,8 @@
 var menu = " \
     <div id=\"menu\" data-markdown> \
       <br/> \
-      <br/> \
-      <br/> \
       [mathilde.fenoll@gmail.com](mailto:mathilde.fenoll@gmail.com) \
+      <br/> \
       <br/> \
       #### TEXTE \
       [à propos](/texte/texte.htm) \
