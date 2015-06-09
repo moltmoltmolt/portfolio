@@ -7,9 +7,7 @@ var menu = " \
       [à propos](/texte/texte.htm) \
       <br/> \
       #### TRAVAUX \
-      * [Malacologie #1](/malacologie1.htm) \
-      * [Malacologie #2](/malacologie2.htm) \
-      * [Malacologie #3](/malacologie3.htm) \
+      * [Malacologie](/malacologie.htm) \
       * [Néons](/neons.htm) \
       * [Strates](/strates.htm) \
       * [Diplopie](/diplopie.htm) \
