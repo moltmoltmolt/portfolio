@@ -7,6 +7,7 @@ var menu = " \
       <br/> \
       [contact](/contact.htm) \
       <br/> \
+      [CV](/cv.htm) \
       <br/> \
       [à propos](/texte/texte.htm) \
       <br/> \
