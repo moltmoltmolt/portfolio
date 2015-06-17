@@ -9,8 +9,6 @@ var menu = " \
       <br/> \
       [CV](/cv.htm) \
       <br/> \
-      [à propos](/texte/texte.htm) \
-      <br/> \
       #### TRAVAUX \
       * [Entre les mondes](/entre_les_mondes.htm) \
       * [User la Mine_1](/user_la_mine_1.htm) \
