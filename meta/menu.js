@@ -1,15 +1,12 @@
 var menu = " \
     <div id=\"menu\" data-markdown> \
-      [Mathilde Fenoll](/mathilde-fenoll.htm) \
+      [Mathilde Fenoll](/index.htm) \
       <br/> \
-      <br/> \
-      [Info](/texte/texte.htm) \
       <br/> \
       [contact](/contact.htm) \
       <br/> \
       [CV](/cv.htm) \
       <br/> \
-      #### TRAVAUX \
       * [Entre les mondes](/entre_les_mondes.htm) \
       * [User la Mine_1](/user_la_mine_1.htm) \
       * [User la Mine_2](/user_la_mine_2.htm) \
@@ -22,8 +19,5 @@ var menu = " \
       * [Coloriages](/coloriages.htm) \
       * [Les Hôtes](/les_hotes.htm) \
       * [Notes pour sculptures](/encre.htm) \
-      * [Études Totémiques](/etudes_totemiques.htm) \
-      * [Atelier](/recherches.htm) \
-      * [Vrac](/vrac.htm) \
     </div> \
 ";
