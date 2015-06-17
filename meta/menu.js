@@ -7,17 +7,30 @@ var menu = " \
       <br/> \
       [CV](/cv.htm) \
       <br/> \
+      <br/> \
       [Entre les mondes](/entre_les_mondes.htm) \
-      * [User la Mine_1](/user_la_mine_1.htm) \
-      * [User la Mine_2](/user_la_mine_2.htm) \
-      * [Malacologie](/malacologie.htm) \
-      * [Néons](/neons.htm) \
-      * [Strates](/strates.htm) \
-      * [Diplopie](/diplopie.htm) \
-      * [Papier Peint Atmosphérique](/papier_peint.htm) \
-      * [Sans Titre 1](/sans_titre1.htm) \
-      * [Coloriages](/coloriages.htm) \
-      * [Les Hôtes](/les_hotes.htm) \
-      * [Notes pour sculptures](/encre.htm) \
+      <br/> \
+      [User la Mine_1](/user_la_mine_1.htm) \
+      <br/> \
+      [User la Mine_2](/user_la_mine_2.htm) \
+      <br/> \
+      [Malacologie](/malacologie.htm) \
+      <br/> \
+      [Néons](/neons.htm) \
+      <br/> \
+      [Strates](/strates.htm) \
+      <br/> \
+      [Diplopie](/diplopie.htm) \
+      <br/> \
+      [Papier Peint Atmosphérique](/papier_peint.htm) \
+      <br/> \
+      [Sans Titre 1](/sans_titre1.htm) \
+      <br/> \
+      [Coloriages](/coloriages.htm) \
+      <br/> \
+      [Les Hôtes](/les_hotes.htm) \
+      <br/> \
+      [Notes pour sculptures](/encre.htm) \
+      <br/> \
     </div> \
 ";
