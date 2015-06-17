@@ -1,5 +1,7 @@
 var menu = " \
     <div id=\"menu\" data-markdown> \
+      [Mathilde Fenoll](/mathilde-fenoll.htm) \
+      <br/> \
       <br/> \
       [mathilde.fenoll@gmail.com](mailto:mathilde.fenoll@gmail.com) \
       <br/> \
