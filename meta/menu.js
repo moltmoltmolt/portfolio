@@ -4,6 +4,9 @@ var menu = " \
       <br/> \
       <br/> \
       [Info](/texte/texte.htm) \
+      <br/> \
+      [contact](/contact.htm) \
+      <br/> \
       [mathilde.fenoll@gmail.com](mailto:mathilde.fenoll@gmail.com) \
       <br/> \
       <br/> \
