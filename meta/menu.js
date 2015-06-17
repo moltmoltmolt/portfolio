@@ -7,8 +7,6 @@ var menu = " \
       <br/> \
       [contact](/contact.htm) \
       <br/> \
-      [mathilde.fenoll@gmail.com](mailto:mathilde.fenoll@gmail.com) \
-      <br/> \
       <br/> \
       [à propos](/texte/texte.htm) \
       <br/> \
