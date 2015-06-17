@@ -3,6 +3,7 @@ var menu = " \
       [Mathilde Fenoll](/mathilde-fenoll.htm) \
       <br/> \
       <br/> \
+      [Info](/texte/texte.htm) \
       [mathilde.fenoll@gmail.com](mailto:mathilde.fenoll@gmail.com) \
       <br/> \
       <br/> \
