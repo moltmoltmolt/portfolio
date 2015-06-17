@@ -10,9 +10,9 @@ var menu = " \
       <br/> \
       [Entre les mondes](/entre_les_mondes.htm) \
       <br/> \
-      [User la Mine_1](/user_la_mine_1.htm) \
+      [User la Mine #1](/user_la_mine_1.htm) \
       <br/> \
-      [User la Mine_2](/user_la_mine_2.htm) \
+      [User la Mine #2](/user_la_mine_2.htm) \
       <br/> \
       [Malacologie](/malacologie.htm) \
       <br/> \
