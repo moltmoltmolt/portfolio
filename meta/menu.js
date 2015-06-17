@@ -7,7 +7,7 @@ var menu = " \
       <br/> \
       [CV](/cv.htm) \
       <br/> \
-      * [Entre les mondes](/entre_les_mondes.htm) \
+      [Entre les mondes](/entre_les_mondes.htm) \
       * [User la Mine_1](/user_la_mine_1.htm) \
       * [User la Mine_2](/user_la_mine_2.htm) \
       * [Malacologie](/malacologie.htm) \
