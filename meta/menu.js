@@ -20,7 +20,7 @@ var menu = " \
       <br/> \
       [Strates](/strates.htm) \
       <br/> \
-      [Papier Peint Atmosphérique](/papier_peint.htm) \
+      [La Terre est faite de ciel](/papier_peint.htm) \
       <br/> \
       [Les Hôtes](/les_hotes.htm) \
       <br/> \
