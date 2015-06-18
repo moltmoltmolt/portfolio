@@ -20,13 +20,9 @@ var menu = " \
       <br/> \
       [Strates](/strates.htm) \
       <br/> \
-      [Diplopie](/diplopie.htm) \
-      <br/> \
       [Papier Peint Atmosphérique](/papier_peint.htm) \
       <br/> \
       [Sans Titre 1](/sans_titre1.htm) \
-      <br/> \
-      [Coloriages](/coloriages.htm) \
       <br/> \
       [Les Hôtes](/les_hotes.htm) \
       <br/> \
