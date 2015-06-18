@@ -22,8 +22,6 @@ var menu = " \
       <br/> \
       [Papier Peint Atmosphérique](/papier_peint.htm) \
       <br/> \
-      [Sans Titre 1](/sans_titre1.htm) \
-      <br/> \
       [Les Hôtes](/les_hotes.htm) \
       <br/> \
       [Notes pour sculptures](/encre.htm) \
