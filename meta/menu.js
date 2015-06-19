@@ -33,7 +33,7 @@ var menu = " \
       <br/> \
       [Mon frère est daltonien](/dalton.htm) \
       <br/> \
-      [RGB](/rgv.htm) \
+      [RGB](/rgb.htm) \
       <br/> \
       [Notes pour sculptures](/encre.htm) \
       <br/> \
