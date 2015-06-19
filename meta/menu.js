@@ -12,6 +12,8 @@ var menu = " \
       <br/> \
       [Dentifrication](/dentifrication.htm) \
       <br/> \
+      [Nomenclature](/anat.htm) \
+      <br/> \
       [User la Mine #1](/user_la_mine_1.htm) \
       <br/> \
       [User la Mine #2](/user_la_mine_2.htm) \
