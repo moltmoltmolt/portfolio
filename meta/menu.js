@@ -14,7 +14,7 @@ var menu = " \
       <br/> \
       [Nomenclature](/anat.htm) \
       <br/> \
-      [User la Mine #1](/user_la_mine_1.htm) \
+      [User la Mine #1](/user-1.htm) \
       <br/> \
       [User la Mine #2](/user_la_mine_2.htm) \
       <br/> \
