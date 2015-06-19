@@ -16,7 +16,7 @@ var menu = " \
       <br/> \
       [User la Mine #1](/user-1.htm) \
       <br/> \
-      [User la Mine #2](/user_la_mine_2.htm) \
+      [User la Mine #2](/user-2.htm) \
       <br/> \
       [Malacologie](/malacologie.htm) \
       <br/> \
