@@ -31,8 +31,6 @@ var menu = " \
       <br/> \
       [Les Hôtes](/les_hotes.htm) \
       <br/> \
-      [Mon frère est daltonien](/dalton.htm) \
-      <br/> \
       [RGB](/rgb.htm) \
       <br/> \
       [Notes pour sculptures](/encre.htm) \
