@@ -35,7 +35,5 @@ var menu = " \
       <br/> \
       [RGB](/rgb.htm) \
       <br/> \
-      [Notes pour sculptures](/encre.htm) \
-      <br/> \
     </div> \
 ";
