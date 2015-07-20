@@ -9,6 +9,8 @@ var menu = " \
       <br/> \
       <br/> \
       <br/> \
+      [Linogravures](/lino.htm) \
+      <br/> \
       [Ziggurat](/ziggurat.htm) \
       <br/> \
       [Entre les mondes](/entre_les_mondes.htm) \
