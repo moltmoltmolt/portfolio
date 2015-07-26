@@ -31,9 +31,9 @@ var menu = " \
       <br/> \
       [Néons](/neons.htm) \
       <br/> \
-      [Strates](/strates.htm) \
-      <br/> \
       [La Terre est faite de ciel](/papier_peint.htm) \
+      <br/> \
+      [Strates](/strates.htm) \
       <br/> \
       [Les Hôtes](/les_hotes.htm) \
       <br/> \
