@@ -9,7 +9,7 @@ var menu = " \
       <br/> \
       <br/> \
       <br/> \
-      [Vague](/Vague.htm) \
+      [Vague](/vague.htm) \
       <br/> \
       [Crocs](/crocs.htm) \
       <br/> \
