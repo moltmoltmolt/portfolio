@@ -9,7 +9,7 @@ var menu = " \
       <br/> \
       <br/> \
       <br/> \
-      [Notes pour sculptures](/lino.htm) \
+      [Substantial Kingdoms](/lino.htm) \
       <br/> \
       [Ziggurat](/ziggurat.htm) \
       <br/> \
