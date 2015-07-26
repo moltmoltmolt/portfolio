@@ -29,9 +29,9 @@ var menu = " \
       <br/> \
       [Malacologie](/malacologie.htm) \
       <br/> \
-      [Néons](/neons.htm) \
-      <br/> \
       [La Terre est faite de ciel](/papier_peint.htm) \
+      <br/> \
+      [Néons](/neons.htm) \
       <br/> \
       [Strates](/strates.htm) \
       <br/> \
