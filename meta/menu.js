@@ -13,7 +13,7 @@ var menu = " \
       <br/> \
       [Substantial Kingdoms](/lino.htm) \
       <br/> \
-      [Élément #3840](/element3840.htm) \
+      [Élément #3840](/element.htm) \
       <br/> \
       [Ziggurat](/ziggurat.htm) \
       <br/> \
