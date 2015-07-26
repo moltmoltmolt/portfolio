@@ -9,7 +9,7 @@ var menu = " \
       <br/> \
       <br/> \
       <br/> \
-      [CROCS](/crocs.htm) \
+      [Crocs](/crocs.htm) \
       <br/> \
       [Substantial Kingdoms](/lino.htm) \
       <br/> \
