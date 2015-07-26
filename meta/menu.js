@@ -9,6 +9,8 @@ var menu = " \
       <br/> \
       <br/> \
       <br/> \
+      [CROCS](/crocs.htm) \
+      <br/> \
       [Substantial Kingdoms](/lino.htm) \
       <br/> \
       [Ziggurat](/ziggurat.htm) \
