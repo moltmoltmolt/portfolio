@@ -11,11 +11,11 @@ var menu = " \
       <br/> \
       [Vague](/vague.htm) \
       <br/> \
-      [Crocs](/crocs.htm) \
-      <br/> \
       [Substantial Kingdoms](/lino.htm) \
       <br/> \
       [Ziggurat](/ziggurat.htm) \
+      <br/> \
+      [Crocs](/crocs.htm) \
       <br/> \
       [Entre les mondes](/entre_les_mondes.htm) \
       <br/> \
