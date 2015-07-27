@@ -9,6 +9,8 @@ var menu = " \
       <br/> \
       <br/> \
       <br/> \
+      2015
+      <br/> \
       [Vague](/vague.htm) \
       <br/> \
       [Substantial Kingdoms](/lino.htm) \
@@ -18,6 +20,9 @@ var menu = " \
       [Ziggurat](/ziggurat.htm) \
       <br/> \
       [Crocs](/crocs.htm) \
+      <br/> \
+      <br/> \
+      2014
       <br/> \
       [Entre les mondes](/entre_les_mondes.htm) \
       <br/> \
@@ -29,6 +34,9 @@ var menu = " \
       <br/> \
       [User la Mine #2](/user-2.htm) \
       <br/> \
+      <br/> \
+      2013
+      <br/> \
       [Malacologie](/malacologie.htm) \
       <br/> \
       [La Terre est faite de ciel](/papier_peint.htm) \
@@ -37,7 +45,13 @@ var menu = " \
       <br/> \
       [Strates](/strates.htm) \
       <br/> \
+      <br/> \
+      2012
+      <br/> \
       [Les Hôtes](/les_hotes.htm) \
+      <br/> \
+      <br/> \
+      2011
       <br/> \
       [RGB](/rgb.htm) \
       <br/> \
