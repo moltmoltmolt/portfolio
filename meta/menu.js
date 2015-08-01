@@ -9,7 +9,7 @@ var menu = " \
       <br/> \
       <br/> \
       <br/> \
-      2015
+      2015 \
       <br/> \
       [Vague](/vague.htm) \
       <br/> \
@@ -22,7 +22,7 @@ var menu = " \
       [Crocs](/crocs.htm) \
       <br/> \
       <br/> \
-      2014
+      2014 \
       <br/> \
       [Entre les mondes](/entre_les_mondes.htm) \
       <br/> \
@@ -35,7 +35,7 @@ var menu = " \
       [User la Mine #2](/user-2.htm) \
       <br/> \
       <br/> \
-      2013
+      2013 \
       <br/> \
       [Malacologie](/malacologie.htm) \
       <br/> \
@@ -46,12 +46,12 @@ var menu = " \
       [Strates](/strates.htm) \
       <br/> \
       <br/> \
-      2012
+      2012 \
       <br/> \
       [Les Hôtes](/les_hotes.htm) \
       <br/> \
       <br/> \
-      2011
+      2011 \
       <br/> \
       [RGB](/rgb.htm) \
       <br/> \
