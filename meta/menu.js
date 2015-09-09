@@ -17,12 +17,12 @@ var menu = " \
       <br/> \
       [Élément #3840](/element.htm) \
       <br/> \
-      [Ziggurat](/ziggurat.htm) \
-      <br/> \
       [Crocs](/crocs.htm) \
       <br/> \
       <br/> \
       2014 \
+      <br/> \
+      [Ziggurat](/ziggurat.htm) \
       <br/> \
       [Entre les mondes](/entre_les_mondes.htm) \
       <br/> \
