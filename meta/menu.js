@@ -11,6 +11,8 @@ var menu = " \
       <br/> \
       2015 \
       <br/> \
+      [Le Ring](/lering.htm) \
+      <br/> \
       [Vague](/vague.htm) \
       <br/> \
       [Substantial Kingdoms](/lino.htm) \
