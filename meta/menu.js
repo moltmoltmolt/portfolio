@@ -13,13 +13,13 @@ var menu = " \
       <br/> \
       [Le Ring](/lering.htm) \
       <br/> \
-      [Vague](/vague.htm) \
-      <br/> \
       [Substantial Kingdoms](/lino.htm) \
       <br/> \
       [Élément #3840](/element.htm) \
       <br/> \
       [Crocs](/crocs.htm) \
+      <br/> \
+      [Vague](/vague.htm) \
       <br/> \
       <br/> \
       2014 \
