@@ -11,7 +11,7 @@ var menu = " \
       <br/> \
       [Le Ring](/lering.htm) \
       <br/> \
-      [Substantial Kingdoms](/lino.htm) \
+      [Realms](/lino.htm) \
       <br/> \
       [Élément #3840](/element.htm) \
       <br/> \
