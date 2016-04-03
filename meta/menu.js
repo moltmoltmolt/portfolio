@@ -1,6 +1,6 @@
 var menu = " \
     <div id=\"menu\" data-markdown> \
-      [MaATHILDE FENOLL](/index.htm) \
+      [MATHILDE FENOLL](/index.htm) \
       <br/> \
       <br/> \
       [contact](/contact.htm) \
