@@ -9,8 +9,6 @@ var menu = " \
       [CV](/cv.htm) \
       <br/> \
       <br/> \
-      [Le Ring](/lering.htm) \
-      <br/> \
       [Realms](/lino.htm) \
       <br/> \
       [Élément #3840](/element.htm) \
