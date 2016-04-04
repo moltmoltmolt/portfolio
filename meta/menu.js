@@ -4,10 +4,6 @@ var menu = " \
       <br/> \
       <br/> \
       <br/> \
-      [contact](/contact.htm) \
-      <br/> \
-      [CV](/cv.htm) \
-      <br/> \
       <br/> \
       [Realms](/lino.htm) \
       <br/> \
@@ -41,5 +37,9 @@ var menu = " \
       <br/> \
       [RGB](/rgb.htm) \
       <br/> \
+      <br/> \
+      [contact](/contact.htm) \
+      <br/> \
+      [CV](/cv.htm) \
     </div> \
 ";
