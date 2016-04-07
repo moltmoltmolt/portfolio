@@ -5,7 +5,7 @@ var menu = " \
       <br/> \
       <br/> \
       <br/> \
-      [Realms](/lino.htm) \
+      [Les Royaumes](/lino.htm) \
       <br/> \
       [Élément #3840](/element.htm) \
       <br/> \
