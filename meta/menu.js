@@ -13,6 +13,8 @@ var menu = " \
       <br/> \
       [Vague](/vague.htm) \
       <br/> \
+      [Salle des poussières](/poussieres.htm) \
+      <br/> \
       [Ziggurat](/ziggurat.htm) \
       <br/> \
       [Entre les mondes](/entre_les_mondes.htm) \
