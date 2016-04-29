@@ -5,6 +5,8 @@ var menu = " \
       <br/> \
       <br/> \
       <br/> \
+      [Récif](/recif.htm) \
+      <br/> \
       [Les Royaumes](/lino.htm) \
       <br/> \
       [Élément #3840](/element.htm) \
