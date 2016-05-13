@@ -27,7 +27,7 @@ var menu = " \
       <br/> \
       [Paradigme](/user-1.htm) \
       <br/> \
-      [User la Mine #2](/user-2.htm) \
+      [User la Mine](/user-2.htm) \
       <br/> \
       [Malacologie](/malacologie.htm) \
       <br/> \
