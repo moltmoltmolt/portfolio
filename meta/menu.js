@@ -5,6 +5,8 @@ var menu = " \
       <br/> \
       <br/> \
       <br/> \
+      [The Fish Theory](/oysters.htm) \
+      <br/> \
       [Récif](/recif.htm) \
       <br/> \
       [Les Royaumes](/lino.htm) \
