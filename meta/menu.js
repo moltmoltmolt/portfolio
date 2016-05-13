@@ -7,7 +7,7 @@ var menu = " \
       <br/> \
       [The Fish Theory](/oysters.htm) \
       <br/> \
-      [Récif](/recif.htm) \
+      [Rock](/rock.htm) \
       <br/> \
       [Les Royaumes](/lino.htm) \
       <br/> \
