@@ -5,6 +5,11 @@ var menu = " \
       <br/> \
       <br/> \
       <br/> \
+      [contact](/contact.htm) \
+      <br/> \
+      [CV](/cv.htm) \
+      <br/> \
+      <br/> \
       [The Fish Theory](/oysters.htm) \
       <br/> \
       [Rock](/rock.htm) \
@@ -43,9 +48,5 @@ var menu = " \
       <br/> \
       [RGB](/rgb.htm) \
       <br/> \
-      <br/> \
-      [contact](/contact.htm) \
-      <br/> \
-      [CV](/cv.htm) \
     </div> \
 ";
