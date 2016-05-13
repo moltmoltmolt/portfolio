@@ -25,7 +25,7 @@ var menu = " \
       <br/> \
       [Anatomie](/anat.htm) \
       <br/> \
-      [User la Mine #1](/user-1.htm) \
+      [Paradigme](/user-1.htm) \
       <br/> \
       [User la Mine #2](/user-2.htm) \
       <br/> \
