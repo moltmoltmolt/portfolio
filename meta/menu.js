@@ -8,7 +8,7 @@ var menu = " \
       [CV](/cv.htm) \
       <br/> \
       <br/> \
-      [Costumes](/oysters.htm) \
+      [Fish Sauce](/oysters.htm) \
       <br/> \
       [Rock](/rock.htm) \
       <br/> \
