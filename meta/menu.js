@@ -35,6 +35,7 @@ var menu = " \
       <br/> \
       [User la Mine](/user-2.htm) \
       <br/> \
+      <br/> \
       [Malacologie](/malacologie.htm) \
       <br/> \
       [La Terre est faite de ciel](/papier_peint.htm) \
@@ -43,7 +44,9 @@ var menu = " \
       <br/> \
       [Strates](/strates.htm) \
       <br/> \
+      <br/> \
       [Les Hôtes](/les_hotes.htm) \
+      <br/> \
       <br/> \
       [RGB](/rgb.htm) \
       <br/> \
