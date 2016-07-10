@@ -11,8 +11,6 @@ var menu = " \
       <br/> \
       [Fish Sauce](/oysters.htm) \
       <br/> \
-      [2016]
-      <br/> \
       [Rock](/rock.htm) \
       <br/> \
       [Les Royaumes](/lino.htm) \
