@@ -12,9 +12,6 @@ var menu = " \
       [Fish Sauce](/oysters.htm) \
       <br/> \
       <br/> \
-      [Salle des poussières](/poussieres.htm) \
-      <br/> \
-      <br/> \
       [Crocs](/crocs.htm) \
       <br/> \
       [Paradigme](/user-1.htm) \
