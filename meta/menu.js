@@ -11,19 +11,24 @@ var menu = " \
       <br/> \
       [Fish Sauce](/oysters.htm) \
       <br/> \
-      [Rock](/rock.htm) \
-      <br/> \
-      [Les Royaumes](/lino.htm) \
-      <br/> \
-      [Élément #3840](/element.htm) \
-      <br/> \
-      [Crocs](/crocs.htm) \
-      <br/> \
-      [Vague](/vague.htm) \
       <br/> \
       [Salle des poussières](/poussieres.htm) \
       <br/> \
-      [Ziggurat](/ziggurat.htm) \
+      <br/> \
+      [Crocs](/crocs.htm) \
+      <br/> \
+      [Paradigme](/user-1.htm) \
+      <br/> \
+      [Les Royaumes](/lino.htm) \
+      <br/> \
+      [Rock](/rock.htm) \
+      <br/> \
+      [Vague](/vague.htm) \
+      <br/> \
+      [Élément #3840](/element.htm) \
+      <br/> \
+      [Diary](/user-2.htm) \
+      <br/> \
       <br/> \
       [Entre les mondes](/entre_les_mondes.htm) \
       <br/> \
@@ -31,9 +36,7 @@ var menu = " \
       <br/> \
       [Anatomie](/anat.htm) \
       <br/> \
-      [Paradigme](/user-1.htm) \
-      <br/> \
-      [User la Mine](/user-2.htm) \
+      [Ziggurat](/ziggurat.htm) \
       <br/> \
       <br/> \
       [Malacologie](/malacologie.htm) \
