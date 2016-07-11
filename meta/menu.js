@@ -9,7 +9,7 @@ var menu = " \
       <br/> \
       <br/> \
       <br/> \
-      [2016] \
+      2016 \
       <br/> \
       [Fish Sauce](/oysters.htm) \
       <br/> \
