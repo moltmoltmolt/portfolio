@@ -14,6 +14,8 @@ var menu = " \
       [Fish Sauce](/oysters.htm) \
       <br/> \
       <br/> \
+      2015 \
+      <br/> \
       [Crocs](/crocs.htm) \
       <br/> \
       [Paradigme](/user-1.htm) \
@@ -29,6 +31,8 @@ var menu = " \
       [Diary](/user-2.htm) \
       <br/> \
       <br/> \
+      2014 \
+      <br/> \
       [Entre les mondes](/entre_les_mondes.htm) \
       <br/> \
       [Dentifrication](/dentifrication.htm) \
@@ -37,6 +41,8 @@ var menu = " \
       <br/> \
       [Ziggurat](/ziggurat.htm) \
       <br/> \
+      <br/> \
+      2013 \
       <br/> \
       [Malacologie](/malacologie.htm) \
       <br/> \
@@ -47,8 +53,12 @@ var menu = " \
       [Strates](/strates.htm) \
       <br/> \
       <br/> \
+      2012 \
+      <br/> \
       [Les Hôtes](/les_hotes.htm) \
       <br/> \
+      <br/> \
+      2011 \
       <br/> \
       [RGB](/rgb.htm) \
       <br/> \
