@@ -46,7 +46,7 @@ var menu = " \
       <br/> \
       [Malacologie](/malacologie.htm) \
       <br/> \
-      [La Terre est faite de ciel](/papier_peint.htm) \
+      [Ciel](/papier_peint.htm) \
       <br/> \
       [Néons](/neons.htm) \
       <br/> \
