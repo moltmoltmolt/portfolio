@@ -18,7 +18,7 @@ var menu = " \
       <br/> \
       [Les Royaumes](/lino.htm) \
       <br/> \
-      [Rock](/rock.htm) \
+      [Sticky to Rock](/rock.htm) \
       <br/> \
       [Vague](/vague.htm) \
       <br/> \
