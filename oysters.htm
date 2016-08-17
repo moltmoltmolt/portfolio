@@ -15,36 +15,6 @@
     <![endif]-->
   </head>
   <body>
-    <body>
-    <script type="text/javascript">
-      document.write(menu);
-      $(document).ready(function () {
-          $("#k1").cycle({
-              fx: "fade", speed: "2000",
-              timeout: 0,
-              next: "#k1-next", prev: "#k1-prev" });
-
-          $(document).keydown(function(evt) {
-              if (evt.keyCode == 39) // Right Arrow
-                  $("#k1-next").click();
-              if (evt.keyCode == 37) // Left Arrow
-                  $("#k1-prev").click();
-        });
-      });
-    </script>
-
-    <div id="content" data-markdown>
-      ### FISH SAUCE | 2016
-      <div class="kiosk" id="k1">
-        <div><img src="kiosk/oysters-10.jpg"/><p>Atelier d'artiste</p></div>
-        <div><img src="kiosk/oysters-11.jpg"/><p>Atelier d'artiste (suite)</p></div>
-        <div><img src="kiosk/oysters-00.jpg"/><p>Acsenceur</p></div>
-        <div><img src="kiosk/4.gif"/><p>Salle precheter</p></div>
-      </div>
-      <div class="legend">
-
-        <a id="k1-prev" href="#">Prev</a> | <a id="k1-next" href="#">Next</a>
-        <!-- <span id="num"></span> -->
       <br/>
       <br/>
       FISH SAUCE | 2016
