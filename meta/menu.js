@@ -11,6 +11,8 @@ var menu = " \
       <br/> \
       2016 \
       <br/> \
+      [ici-bas](/ici.htm) \
+      <br/> \
       [Fish Sauce](/oysters.htm) \
       <br/> \
       <br/> \
