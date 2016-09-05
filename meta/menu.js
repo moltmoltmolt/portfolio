@@ -18,7 +18,7 @@ var menu = " \
       <br/> \
       2015 \
       <br/> \
-      [Crocs](/crocs.htm) \
+      [Les Crocs](/crocs.htm) \
       <br/> \
       [Paradigme](/user-1.htm) \
       <br/> \
