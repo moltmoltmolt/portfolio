@@ -30,7 +30,7 @@ var menu = " \
       <br/> \
       [Élément #3840](/element.htm) \
       <br/> \
-      [Diary](/user-2.htm) \
+      [River Mind](/user-2.htm) \
       <br/> \
       <br/> \
       2014 \
