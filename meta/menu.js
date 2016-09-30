@@ -13,6 +13,8 @@ var menu = " \
       <br/> \
       <br/> \
       <br/> \
+      [╳](/╳.htm) \
+      <br/> \
       [Fish Theory](/oysters.htm) \
       <br/> \
       <br/> \
