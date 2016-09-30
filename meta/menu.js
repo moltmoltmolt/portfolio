@@ -11,11 +11,9 @@ var menu = " \
       <br/> \
       2016 \
       <br/> \
-      <br/> \
+      [╳](/kiki.htm) \
       <br/> \
       [Le Ring](/lering.htm) \
-      <br/> \
-      [╳](/kiki.htm) \
       <br/> \
       [Fish Theory](/oysters.htm) \
       <br/> \
