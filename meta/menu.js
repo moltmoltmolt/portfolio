@@ -11,9 +11,11 @@ var menu = " \
       <br/> \
       2016 \
       <br/> \
-      [ici-bas](/ici.htm) \
+      <br/>
+      <br/>
+      [╳](/╳.htm) \
       <br/> \
-      [Fish Sauce](/oysters.htm) \
+      [Fish Theory](/oysters.htm) \
       <br/> \
       <br/> \
       2015 \
