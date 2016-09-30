@@ -11,7 +11,7 @@ var menu = " \
       <br/> \
       2016 \
       <br/> \
-      [╳](/kiki.htm) \
+      [͜](/kiki.htm) \
       <br/> \
       [Le Ring](/lering.htm) \
       <br/> \
