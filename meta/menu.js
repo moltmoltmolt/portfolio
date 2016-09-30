@@ -9,13 +9,14 @@ var menu = " \
       <br/> \
       <br/> \
       <br/> \
+      [╳](/oysters.htm) \
+      <br/> \
+      <br/> \
       2016 \
       <br/> \
       [Point ligne plan](/kiki.htm) \
       <br/> \
       [Le Ring](/lering.htm) \
-      <br/> \
-      [Fish Theory](/oysters.htm) \
       <br/> \
       <br/> \
       2015 \
