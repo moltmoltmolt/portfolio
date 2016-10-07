@@ -14,7 +14,7 @@ var menu = " \
       <br/> \
       2016 \
       <br/> \
-      [Point ligne plan](/kiki.htm) \
+      [Sans titre](/kiki.htm) \
       <br/> \
       [Le Ring](/lering.htm) \
       <br/> \
