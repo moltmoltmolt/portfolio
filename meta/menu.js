@@ -14,6 +14,8 @@ var menu = " \
       <br/> \
       2016 \
       <br/> \
+      [Nez](/nez.htm) \
+      <br/> \
       [Sans titre](/kiki.htm) \
       <br/> \
       [Le Ring](/lering.htm) \
