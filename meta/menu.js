@@ -5,7 +5,6 @@ var menu = " \
       <br/> \
       [contact](/contact.htm) \
       <br/> \
-      [CV](/cv.htm) \
       <br/> \
       <br/> \
       <br/> \
@@ -48,6 +47,10 @@ var menu = " \
       [Les Hôtes](/les_hotes.htm) \
       <br/> \
       [RGB](/rgb.htm) \
+      <br/> \
+      <br/> \
+      <br/> \
+      [CV](/cv.htm) \
       <br/> \
     </div> \
 ";
