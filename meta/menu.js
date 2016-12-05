@@ -9,7 +9,7 @@ var menu = " \
       <br/> \
       <br/> \
       <br/> \
-      [The Fish Theor](/oysters.htm) \
+      [The Fish Theory](/oysters.htm) \
       <br/> \
       [Sans titre](/kiki.htm) \
       <br/> \
