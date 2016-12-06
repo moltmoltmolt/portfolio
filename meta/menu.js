@@ -11,7 +11,7 @@ var menu = " \
       <br/> \
       [The Fish Theory](/oysters.htm) \
       <br/> \
-      [Sans titre](/kiki.htm) \
+      [Composition IV](/kiki.htm) \
       <br/> \
       [Le Ring](/lering.htm) \
       <br/> \
