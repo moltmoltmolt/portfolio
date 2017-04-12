@@ -17,7 +17,7 @@ var menu = " \
       <br/> \
       [Composition IV](/kiki.htm) \
       <br/> \
-      [À Travers](/nez.htm) \
+      [- - -](/nez.htm) \
       <br/> \
       [Les Crocs](/crocs.htm) \
       <br/> \
