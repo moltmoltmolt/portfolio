@@ -13,9 +13,11 @@ var menu = " \
       <br/> \
       [Netz](/netz.htm) \
       <br/> \
+      [Le Ring](/lering.htm) \
+      <br/> \
       [Composition IV](/kiki.htm) \
       <br/> \
-      [Le Ring](/lering.htm) \
+      [À Travers](/nez.htm) \
       <br/> \
       [Les Crocs](/crocs.htm) \
       <br/> \
