@@ -17,7 +17,7 @@ var menu = " \
       <br/> \
       [Le Ring](/lering.htm) \
       <br/> \
-      [Composition IV](/kiki.htm) \
+      [Parabole](/kiki.htm) \
       <br/> \
       [Ka](/nez.htm) \
       <br/> \
