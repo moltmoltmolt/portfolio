@@ -19,7 +19,7 @@ var menu = " \
       <br/> \
       [Composition IV](/kiki.htm) \
       <br/> \
-      [- - -](/nez.htm) \
+      [NEZ](/nez.htm) \
       <br/> \
       [Les Crocs](/crocs.htm) \
       <br/> \
