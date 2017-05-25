@@ -25,7 +25,7 @@ var menu = " \
       <br/> \
       [Paradigme](/user-1.htm) \
       <br/> \
-      [Les Royaumes](/lino.htm) \
+      [Les Invisibles](/lino.htm) \
       <br/> \
       [Camouflage](/rock.htm) \
       <br/> \
