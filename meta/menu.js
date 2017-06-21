@@ -47,7 +47,7 @@ var menu = " \
       <br/> \
       [Ciel](/papier_peint.htm) \
       <br/> \
-      [Néons](/neons.htm) \
+      [Neons](/neons.htm) \
       <br/> \
       [Strates](/strates.htm) \
       <br/> \
