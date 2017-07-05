@@ -9,6 +9,8 @@ var menu = " \
       <br/> \
       <br/> \
       <br/> \
+      [╳ atelier](/oysters.htm) \
+      <br/> \
       [Parade](/parade.htm) \
       <br/> \
       [Venus](/oysters.htm) \
