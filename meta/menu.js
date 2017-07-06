@@ -57,6 +57,8 @@ var menu = " \
       <br/> \
       [RGB](/rgb.htm) \
       <br/> \
+      [jeune fille a la perle](/perle.htm) \
+      <br/> \
       <br/> \
       <br/> \
     </div> \
