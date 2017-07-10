@@ -57,7 +57,7 @@ var menu = " \
       <br/> \
       [RGB](/rgb.htm) \
       <br/> \
-      [Chemises à trois](/chemises.htm) \
+      [One body](/chemises.htm) \
       <br/> \
       [User la mine](/4mains.htm) \
       <br/> \
