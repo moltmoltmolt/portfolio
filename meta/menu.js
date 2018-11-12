@@ -11,8 +11,6 @@ var menu = " \
       <br/> \
       [Parade](/parade.htm) \
       <br/> \
-      [Venus](/oysters.htm) \
-      <br/> \
       [Netz](/netz.htm) \
       <br/> \
       [Le Ring](/lering.htm) \
