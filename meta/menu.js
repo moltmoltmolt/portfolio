@@ -7,7 +7,7 @@ var menu = " \
       <br/> \
       <br/> \
       <br/> \
-      [Butterfly](/butterfly.htm) \
+      [Venus Butterfly](/butterfly.htm) \
       <br/> \
       [Parade](/parade.htm) \
       <br/> \
