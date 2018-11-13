@@ -4,6 +4,8 @@ var menu = " \
       <br/> \
       [ヘ](/cv.htm) \
       <br/> \
+      [Velella_Velella_](/velella.htm) \ 
+      <br/> \
       [Venus Butterfly](/butterfly.htm) \
       <br/> \
       [Parade](/parade.htm) \
