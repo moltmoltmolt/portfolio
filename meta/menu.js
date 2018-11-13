@@ -5,6 +5,8 @@ var menu = " \
       <br/> \
       [/about](/cv.htm) \
       <br/> \
+      [Silence Forêt collective](http://www.silenceforet.com/)
+      <br/> \
       [Venus Butterfly](/butterfly.htm) \
       <br/> \
       [Parade](/parade.htm) \
