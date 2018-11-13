@@ -3,9 +3,7 @@ var menu = " \
       [MATHILDE FENOLL](/index.htm) \
       <br/> \
       <br/> \
-      [.about](/cv.htm) \
-      <br/> \
-      <br/> \
+      [/about](/cv.htm) \
       <br/> \
       [Venus Butterfly](/butterfly.htm) \
       <br/> \
