@@ -28,7 +28,7 @@ var menu = " \
       <br/> \
       [Vague](/vague.htm) \
       <br/> \
-      [Élément #3840](/element.htm) \
+      [Travel of the intangibles](/element.htm) \
       <br/> \
       [River Mind](/user-2.htm) \
       <br/> \
