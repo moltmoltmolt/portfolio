@@ -24,7 +24,7 @@ var menu = " \
       <br/> \
       [Les Invisibles](/lino.htm) \
       <br/> \
-      [RÉCIF](/rock.htm) \
+      [REEF](/rock.htm) \
       <br/> \
       [Vague](/vague.htm) \
       <br/> \
