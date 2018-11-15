@@ -24,7 +24,7 @@ var menu = " \
       <br/> \
       [Les Invisibles](/lino.htm) \
       <br/> \
-      [Camouflage](/rock.htm) \
+      [RÉCIF](/rock.htm) \
       <br/> \
       [Vague](/vague.htm) \
       <br/> \
@@ -42,7 +42,7 @@ var menu = " \
       <br/> \
       [Malacologie](/malacologie.htm) \
       <br/> \
-      [Ciel](/papier_peint.htm) \
+      [Perspective atmosphérique](/papier_peint.htm) \
       <br/> \
       [Neons](/neons.htm) \
       <br/> \
