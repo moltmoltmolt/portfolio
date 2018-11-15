@@ -52,11 +52,6 @@ var menu = " \
       <br/> \
       [RGB](/rgb.htm) \
       <br/> \
-      [One body](/chemises.htm) \
-      <br/> \
-      [User la mine](/4mains.htm) \
-      <br/> \
-      [perle](/perle.htm) \
       <br/> \
       <br/> \
       <br/> \
