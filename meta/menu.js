@@ -10,7 +10,7 @@ var menu = " \
       <br/> \
       [Parade](/parade.htm) \
       <br/> \
-      [Netz](/netz.htm) \
+      [Das Netz](/netz.htm) \
       <br/> \
       [Le Ring](/lering.htm) \
       <br/> \
