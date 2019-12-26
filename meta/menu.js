@@ -2,6 +2,7 @@ var menu = " \
     <div id=\"menu\" data-markdown> \
       [MATHILDE FENOLL](/index.htm) \
       <br/> \
+      <br/> \
       [ヘ](/cv.htm) \
       <br/> \
       [Velella Velella](/velella.htm) \
@@ -49,6 +50,8 @@ var menu = " \
       [Strates](/strates.htm) \
       <br/> \
       [Les Hôtes](/les_hotes.htm) \
+      <br/> \
+      [RGB](/rgb.htm) \
       <br/> \
       [RGB](/rgb.htm) \
       <br/> \
