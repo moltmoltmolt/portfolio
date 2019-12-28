@@ -53,7 +53,7 @@ var menu = " \
       <br/> \
       [RGB](/rgb.htm) \
       <br/> \
-      [RGB](/rgb.htm) \
+      [Notes](/encre.htm) \
       <br/> \
       <br/> \
       <br/> \
