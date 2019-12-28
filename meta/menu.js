@@ -2,8 +2,7 @@ var menu = " \
     <div id=\"menu\" data-markdown> \
       [MATHILDE FENOLL](/index.htm) \
       <br/> \
-      <br/> \
-      [ヘ](/cv.htm) \
+      [/about](/cv.htm) \
       <br/> \
       [Velella Velella](/velella.htm) \
       <br/> \
