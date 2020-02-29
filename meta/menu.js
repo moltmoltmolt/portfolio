@@ -1,5 +1,5 @@
 var menu = " \
-    <div id=\"menu\" data-markdown>
+    <div id=\"menu\" data-markdown> /> 
     [mathilde.fenoll@gmail.com](/index.htm) \
     <br/> \ 
     <br/> \
