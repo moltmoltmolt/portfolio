@@ -1,15 +1,15 @@
 var menu = " \
-    <div id=\"menu\" data-markdown> /> \
-    [mathilde.fenoll@gmail.com](/index.htm) \
+    <div id=\"menu\" data-markdown> \
+    mathilde.fenoll@gmail.com \
     <br/> \
     <br/> \
       <br/> \
       <br/> \
       <br/> \
-      [/about](/about.htm) \
+      [About](/about.htm) \
       [Silence Forêt](http://silenceforet.com/) \
       [Au Secours](http://ausecours.top/) \
-      [Zinewef wef wef wef wef Q](/Cacticule.htm) \
+      [ZineQ](/Cacticule.htm) \
       <br/> \
     [|||](/velella.htm) \
       <br/> \
