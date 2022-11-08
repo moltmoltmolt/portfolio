@@ -7,8 +7,11 @@ var menu = " \
       <br/> \
       <br/> \
       [About](/about.htm) \
+      <br/> \
       [Silence Forêt](http://silenceforet.com/) \
+      <br/> \
       [Au Secours](http://ausecours.top/) \
+      <br/> \
       [ZineQ](/Cacticule.htm) \
       <br/> \
     [|||](/velella.htm) \
